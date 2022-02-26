@@ -1,0 +1,28 @@
+#form-outer {
+  background-color: rgb(250, 250, 250);
+  margin: 0 auto;
+  border-radius: 4px;
+  width: 75%;
+  max-width: 900px;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+h1{font-family:arial;
+ text-align:center;}
+div{width:200pt;
+ padding:5pt;
+ margin:5pt;
+  border:6px;
+  font-size:16pt;
+}
+#first{text-align:center;}
+.alignleft{float:left;}
+.alignright{float:right;}
+#bio{length:500;
+width:50;}
+.alignleftn{float:left;
+color:green;}
+.alignrightn{float:right;
+color:green;}
+#final{background-color:green;}
